@@ -8,14 +8,11 @@ Lastly, if you have a  dual(or more) monitor setup, make sure to open the browse
 HF investing people!
 
 How does it work:
-1. Open the file and set your desired parameters:  
-- Amount (of players you  want to list (max 50))
-- Starting price of the players
-- Buy now price of  the players
-2. Save the file
-3. Open the unassigned pile in the web app where you can see the unassigned players
-4. Run the Programm 
-5. Profit???
+You run the script and it will prompt you to enter the three following values:
+1. Starting price of your players
+2. Buy now price of your players
+3. Amount of players you want to sell (Should not be above 50 because the unassigned pile only shows your next 50 Items. Note: I did not cap this on purpose because
+technically you can also sell your players on the transfer list with this script and I think every expirienced Investor knows about the 50 players per round limit)
                   
 Final Update: 
 The program now generates random waiting times between each action to properly immitate human movement. 
