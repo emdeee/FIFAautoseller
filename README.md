@@ -17,3 +17,6 @@ How does it work:
 4. Run the Programm 
 5. Profit???
                   
+Final Update: 
+The program now generates random waiting times between each action to properly immitate human movement. 
+This way it will be impossible for EA to detect the script running
